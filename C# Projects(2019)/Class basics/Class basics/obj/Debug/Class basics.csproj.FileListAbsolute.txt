@@ -1,0 +1,13 @@
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\Class basics\Class basics\bin\Debug\Class basics.exe.config
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\Class basics\Class basics\bin\Debug\Class basics.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\Class basics\Class basics\bin\Debug\Class basics.pdb
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\Class basics\Class basics\obj\Debug\Class basics.csprojAssemblyReference.cache
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\Class basics\Class basics\obj\Debug\Class basics.csproj.CoreCompileInputs.cache
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\Class basics\Class basics\obj\Debug\Class basics.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\Class basics\Class basics\obj\Debug\Class basics.pdb
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\Class basics\Class basics\bin\Debug\Class basics.exe.config
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\Class basics\Class basics\bin\Debug\Class basics.exe
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\Class basics\Class basics\bin\Debug\Class basics.pdb
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\Class basics\Class basics\obj\Debug\Class basics.csprojAssemblyReference.cache
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\Class basics\Class basics\obj\Debug\Class basics.exe
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\Class basics\Class basics\obj\Debug\Class basics.pdb

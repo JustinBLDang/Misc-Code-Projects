@@ -1,0 +1,11 @@
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\MembersC\MembersC\obj\Debug\MembersC.csproj.CoreCompileInputs.cache
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\MembersC\MembersC\bin\Debug\MembersC.exe.config
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\MembersC\MembersC\bin\Debug\MembersC.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\MembersC\MembersC\bin\Debug\MembersC.pdb
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\MembersC\MembersC\obj\Debug\MembersC.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\MembersC\MembersC\obj\Debug\MembersC.pdb
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\MembersC\MembersC\bin\Debug\MembersC.exe.config
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\MembersC\MembersC\bin\Debug\MembersC.exe
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\MembersC\MembersC\bin\Debug\MembersC.pdb
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\MembersC\MembersC\obj\Debug\MembersC.exe
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\MembersC\MembersC\obj\Debug\MembersC.pdb

@@ -1,0 +1,7 @@
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\OperatorsC\OperatorsC\bin\Debug\OperatorsC.exe.config
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\OperatorsC\OperatorsC\bin\Debug\OperatorsC.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\OperatorsC\OperatorsC\bin\Debug\OperatorsC.pdb
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\OperatorsC\OperatorsC\obj\Debug\OperatorsC.csprojAssemblyReference.cache
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\OperatorsC\OperatorsC\obj\Debug\OperatorsC.csproj.CoreCompileInputs.cache
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\OperatorsC\OperatorsC\obj\Debug\OperatorsC.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\OperatorsC\OperatorsC\obj\Debug\OperatorsC.pdb
