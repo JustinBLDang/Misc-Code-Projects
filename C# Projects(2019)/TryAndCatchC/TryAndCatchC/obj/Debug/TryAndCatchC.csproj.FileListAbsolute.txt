@@ -1,0 +1,13 @@
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TryAndCatchC\TryAndCatchC\bin\Debug\TryAndCatchC.exe.config
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TryAndCatchC\TryAndCatchC\bin\Debug\TryAndCatchC.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TryAndCatchC\TryAndCatchC\bin\Debug\TryAndCatchC.pdb
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.csprojAssemblyReference.cache
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.csproj.CoreCompileInputs.cache
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.pdb
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TryAndCatchC\TryAndCatchC\bin\Debug\TryAndCatchC.exe.config
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TryAndCatchC\TryAndCatchC\bin\Debug\TryAndCatchC.exe
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TryAndCatchC\TryAndCatchC\bin\Debug\TryAndCatchC.pdb
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.csprojAssemblyReference.cache
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.exe
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.pdb

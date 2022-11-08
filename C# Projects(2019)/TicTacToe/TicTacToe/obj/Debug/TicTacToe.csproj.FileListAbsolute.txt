@@ -1,0 +1,13 @@
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Justin Dang\Documents\Visual Studio 2019\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Justin Dang\Desktop\Projects\C# Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
